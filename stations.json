@@ -1,0 +1,32 @@
+[
+    {
+      "title": "P4 Nordjylland",
+      "file": "http://live-icy.gslb01.dr.dk/A/A10H.mp3",
+      "how": null,
+      "imageUri": "https://cdn-profiles.tunein.com/s10135/images/logod.png"
+    },
+    {
+      "title": "P6 Beat",
+      "file": "http://live-icy.gslb01.dr.dk/A/A29H.mp3",
+      "how": null,
+      "imageUri": "https://cdn-profiles.tunein.com/s45455/images/logod.png"
+    },
+    {
+      "title": "ANR",
+      "file": "http://stream.anr.dk/anr",
+      "how": null,
+      "imageUri": "https://cdn-radiotime-logos.tunein.com/s25765d.png"
+    },
+    {
+      "title": "Radio ABC",
+      "file": "https://radioserver.dk/abc",
+      "how": null,
+      "imageUri": "https://cdn-radiotime-logos.tunein.com/s8926d.png"
+    },
+    {
+      "title": "DR Nyheder",
+      "file": "http://live-icy.gss.dr.dk:8000/A/A02H.mp3",
+      "howl": null,
+      "imageUri": "https://cdn-radiotime-logos.tunein.com/s104981d.png"
+    }
+  ]
